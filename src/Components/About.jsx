@@ -31,11 +31,11 @@ const description = "I'm an aspiring and enthaustic  softwater developer";
  */
 const skillsList = [
   "html",
-  "css",
+  "Hss",
   "Python",
   "JavaScript",
   "Mobile user interfaces",
-  "Graphic design",
+  "Data visualization",
 ];
 
 /**

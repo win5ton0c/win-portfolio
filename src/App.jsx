@@ -28,7 +28,7 @@ const siteProps = {
   title: "Software Developer",
   email: "winstondev@gmail.com",
   gitHub: "pending",
-  instagram: "microsoft",
+  instagram: "pending",
   linkedIn: "pending",
   medium: "",
   twitter: "pending",
